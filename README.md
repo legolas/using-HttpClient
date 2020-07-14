@@ -1,6 +1,9 @@
 # RequestProcessing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+This project demonstrates calling a REST API from an angular application using the `HttpClient`. 
+The code is based on the [article "Sending a Request and Processing a Mapped Response to Retrieve Data"](https://www.pluralsight.com/guides/sending-request-processing-mapped-response-retrieve-data) written by Gaurav Singhal.
+
+[Angular CLI](https://github.com/angular/angular-cli) version 10.0.1 is used to generate the boilerplate code.
 
 ## Development server
 
